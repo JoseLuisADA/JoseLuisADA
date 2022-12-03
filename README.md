@@ -14,3 +14,5 @@ llegar a ser capaz de agradar a quienes quiero.**
 
 > Viviendo en un lugar agradable, junto a mi pareja y disfrutando de mis aficiones.
 
+| [<img src="https://user-images.githubusercontent.com/119702567/205414256-b50d7ad0-07c9-477b-bcb7-98165063bd59.jpg" width=115><br><sub>Jose Luis</sub>](https://github.com/camilafernanda) |  <img src="https://user-images.githubusercontent.com/119702567/205414253-5bc0ea2a-d2b1-4324-bd11-fe628ed8dc29.gif" width=115> |
+| :---: | :---: |
