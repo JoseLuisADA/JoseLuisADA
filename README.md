@@ -1,6 +1,6 @@
 ## Sobre mí
 
-`Personalidad` : Me gusta el trato cercano en general y dar conversaciones de calidad. 
+`Personalidad` : Entre todas las cosas que podría decir uno aquí, lo que más destaco es que soy muy afectivo en general y doy conversaciones de calidad. 
 
 `Hobbies` : *Me gusta ejercitarme físicamente*, no ~~fumo~~, <sup>ME GUSTA EL ANIME</sup> y <sub>ME GUSTAN LOS VIDEOJUEGOS.</sub>
 
