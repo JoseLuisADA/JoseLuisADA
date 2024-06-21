@@ -1,14 +1,44 @@
+---
+
+# ¡Hola! 👋 Soy Jose Luis Luzuriaga Alanis
+
+### Desarrollador de Aplicaciones Web | Apasionado por la programación
+
+---
+
 ## Sobre mí
 
-`Personalidad` : Entre todas las cosas que podría decir uno aquí, lo que más destaco es que soy muy afectivo en general. 
+Acabo de completar mi Grado Superior en Desarrollo de Aplicaciones y estoy ansioso por seguir aprendiendo y colaborar en el sector.
 
-`Hobbies` : *Me gusta ejercitarme físicamente*, no ~~fumo~~, <sup>ME GUSTA EL ANIME</sup> y <sub>ME GUSTAN LOS VIDEOJUEGOS.</sub>
+## Habilidades Técnicas
 
-### Objetivos en la vida:
+- **Lenguajes de Programación:** JavaScript, TypeScript, Java
+- **Desarrollo Web:** HTML5, CSS3, React, Next.js
+- **Bases de Datos:** MySQL, MongoDB
+- **Control de Versiones:** Git, GitHub
 
- - Formar parte de un grupo de trabajo con el que me sienta a gusto.
- - Seguir disfrutando de mis hobbies.
+## Proyecto Destacado
 
-### ¿Dónde te ves en el futuro?
+### [Foro de Sistale]
+Foro que simula la existencia de una versión privada del videojuego Nostale, llamada Sistale. 
 
-> Cumpliendo mis objetivos o persiguiéndolos 
+## Educación
+
+**Grado Superior en Desarrollo de Aplicaciones**  
+ADA ITS  
+09/22 - 06/24
+
+## Contacto
+
+- **Correo Electrónico:** luzuriagaalanis@gmail.com
+- **LinkedIn:** [Jose Luis Luzuriaga Alanis](https://www.linkedin.com/in/luzuriagaalanis/)
+
+---
+
+Estoy siempre en busca de nuevas oportunidades para aprender y crecer como desarrollador. Si tienes un proyecto interesante o simplemente quieres conectar, no dudes en contactarme. ¡Hablemos!
+
+---
+
+### 🌟 "El conocimiento es poder." - Francis Bacon
+
+---
