@@ -19,7 +19,7 @@ Acabo de completar mi Grado Superior en Desarrollo de Aplicaciones y estoy ansio
 
 ## Proyecto Destacado
 
-### [Foro de Sistale]
+### Foro de Sistale [Front](https://github.com/JoseLuisLA/sistale-foro) | [Back](https://github.com/JoseLuisLA/sistaleApi)
 Foro que simula la existencia de una versión privada del videojuego Nostale, llamada Sistale. 
 
 ## Educación
