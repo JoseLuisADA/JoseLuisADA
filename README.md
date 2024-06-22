@@ -24,14 +24,13 @@ Foro que simula la existencia de una versión privada del videojuego Nostale, ll
 
 ## Educación
 
-**Grado Superior en Desarrollo de Aplicaciones**  
-ADA ITS  
-09/22 - 06/24
+**Grado Superior en Desarrollo de Aplicaciones Web**  
+- ADA ITS  
+- 09/22 - 06/24
 
 **Grado Medio en Actividades Comerciales**
-
-IES La Mola
-09/22 - 06/24
+- IES La Mola
+- 09/22 - 06/24
 
 ## Contacto
 
