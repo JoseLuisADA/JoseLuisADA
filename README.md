@@ -39,7 +39,7 @@ Foro que simula la existencia de una versión privada del videojuego Nostale, ll
 
 ---
 
-Estoy siempre en busca de nuevas oportunidades para aprender y crecer como desarrollador. Si tienes un proyecto interesante o simplemente quieres conectar, no dudes en contactarme. ¡Hablemos!
+Estoy siempre en busca de nuevas oportunidades para aprender y crecer como desarrollador. Con genuino interés de escuchar, aprender y participar en alguna colaboración ¡Hablemos!
 
 ---
 
