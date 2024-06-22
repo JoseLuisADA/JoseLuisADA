@@ -28,6 +28,10 @@ Foro que simula la existencia de una versión privada del videojuego Nostale, ll
 ADA ITS  
 09/22 - 06/24
 
+**Grado Medio en Actividades Comerciales**
+IES La Mola
+09/22 - 06/24
+
 ## Contacto
 
 - **Correo Electrónico:** luzuriagaalanis@gmail.com
